@@ -2,4 +2,4 @@
 This is my first Repository.
 <br>
 Author- Manisha
-<h> GIT HUB </H>
+<h1> Git hub </h1>
